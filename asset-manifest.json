@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/QR-Code.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/QR-Code.github.io/static/js/main.cf95a69d.js",
+    "main.js": "/QR-Code.github.io/static/js/main.ab127a32.js",
     "static/js/377.702de343.chunk.js": "/QR-Code.github.io/static/js/377.702de343.chunk.js",
     "index.html": "/QR-Code.github.io/index.html",
     "main.e6c13ad2.css.map": "/QR-Code.github.io/static/css/main.e6c13ad2.css.map",
-    "main.cf95a69d.js.map": "/QR-Code.github.io/static/js/main.cf95a69d.js.map",
+    "main.ab127a32.js.map": "/QR-Code.github.io/static/js/main.ab127a32.js.map",
     "377.702de343.chunk.js.map": "/QR-Code.github.io/static/js/377.702de343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cf95a69d.js"
+    "static/js/main.ab127a32.js"
   ]
 }
